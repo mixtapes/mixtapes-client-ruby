@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Mixtapes::Client::VERSION
   spec.authors       = ["Attila Györffy"]
   spec.email         = ["attila@attilagyorffy.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Mixtapes client written in Ruby}
+  spec.description   = %q{A Ruby wrapper to connect and authenticate with the Mixtapes API.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
